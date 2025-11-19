@@ -1,9 +1,6 @@
 # loader.py
 """
 Functions for loading and validating services.csv
-Exports:
-- load_services(filename) -> dict
-- parse_service_block(lines, start_idx) -> (service_name, service_dict, next_index)
 """
 
 import csv
