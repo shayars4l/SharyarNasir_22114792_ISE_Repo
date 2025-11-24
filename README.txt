@@ -1,5 +1,4 @@
 ISE Cloud Services Calculator (ICSC)
-===================================
 
 Author: Sharyar Nasir
 Student ID: 22114792
