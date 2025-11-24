@@ -1,7 +1,4 @@
 # calculator.py
-"""
-Cost calculation logic for ICSC
-"""
 
 from typing import Dict, List
 
