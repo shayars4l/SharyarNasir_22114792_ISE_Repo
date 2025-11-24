@@ -33,5 +33,3 @@ Notes for the marker:
 - The UI allows adding/modifying subscription amounts, listing subscriptions, and showing a cost breakdown.
 - Pricing uses tiered per-unit pricing (non-progressive — entire amount charged at per-unit of applicable tier).
 
-Packaging:
-- Create a .zip of the repository folder, making sure the hidden .git directory is included.
