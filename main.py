@@ -1,8 +1,4 @@
 # main.py
-"""
-Entry point for ICSC program.
-Usage: python3 main.py
-"""
 
 from loader import load_services
 from ui import main_menu
