@@ -1,0 +1,101 @@
+commit d3a6d4cd9a5002473793ab1e64f5c6591a3786f3
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Wed Nov 26 14:50:49 2025 +0400
+
+    vedio
+
+commit a92568961181dfefbeb6e7457758f5b7936fba6c
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Wed Nov 26 14:49:39 2025 +0400
+
+    updated
+
+commit c99a398d8d27b8a38125a7cb63c77fd99cfb4f6b
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Mon Nov 24 17:49:42 2025 +0400
+
+    main file modification
+
+commit 33ab6a63367d011b114a40e0a538f854207a0b22
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Mon Nov 24 17:48:01 2025 +0400
+
+    new
+
+commit 4787b6798f17b268fd97aa96f8ef759bc9681941
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Mon Nov 24 17:46:29 2025 +0400
+
+    changes in README
+
+commit 3e7add36edf7a5f2f333da89ef784807874f154d
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Mon Nov 24 17:45:41 2025 +0400
+
+    changes in README
+
+commit 8ee8c6e9fd03cd3d8476b4d0e6158a65cc3610b7
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Sun Nov 23 23:21:50 2025 +0400
+
+    some errors fixed
+
+commit f70f678c56d08e6c2ae4bf418148716846071840
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Sun Nov 23 22:48:11 2025 +0400
+
+    main file for exicutions of code
+
+commit e54f87d648ce98ed51ade7f8a0346262997060c6
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Sun Nov 23 22:45:00 2025 +0400
+
+    pycache
+
+commit 2c868ff10bee2e7cb254fc25971d60f922821ae2
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Sun Nov 23 22:42:21 2025 +0400
+
+    both black and white box test code add
+
+commit aa462e0202ee8698cf747dc4e61cf4266904d4e8
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Sun Nov 23 22:34:38 2025 +0400
+
+    all the logic for calculations
+
+commit 1ef57700a90acc17ec0ffccc2818a2c149474d18
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Sun Nov 23 20:45:03 2025 +0400
+
+    user interface file
+
+commit e925a7baddf4bf639e80794d5131ae233a56d17b
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Sun Nov 23 20:39:15 2025 +0400
+
+    git ignore files
+
+commit e5cff5c31b94add56a8efb5173fe376e23fe81f4
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Sun Nov 23 20:31:28 2025 +0400
+
+     raate for all the services
+
+commit 9bc73db8efdd2657d1c3d4ac751807dcb7fe83ee
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Wed Nov 19 17:04:14 2025 +0400
+
+    update loader.py
+
+commit adbf900a49937b3593ccde85c3e9f68b60ad4848
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Wed Nov 19 16:58:28 2025 +0400
+
+    loader file ready responsible for file parsing returning a structure service dictionary.
+
+commit 067be138004f9d123770e9f1287c1b9132192002
+Author: sharyar <22114792@student.curtin.edu.au>
+Date:   Wed Nov 19 16:50:01 2025 +0400
+
+    Initial commit

@@ -1,0 +1,2 @@
+origin	https://github.com/shayars4l/SharyarNasir_22114792_ISE_Repo.git (fetch)
+origin	https://github.com/shayars4l/SharyarNasir_22114792_ISE_Repo.git (push)
