@@ -1,10 +1,6 @@
 # ui.py
 """
 User interface (CLI) functions.
-Exports:
-- main_menu(services) -> None
-- display_breakdown(breakdown) -> None
-- prompt_for_amount(service_name, current_amount, units) -> float
 """
 
 from typing import Dict

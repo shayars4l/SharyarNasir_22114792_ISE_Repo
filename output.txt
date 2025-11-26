@@ -1,0 +1,121 @@
+Script started on 2025-11-26 00:10:12+04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;sharyar@sharyar-VirtualBox: ~/SharyarNasir_22114792_ISE_Repo[01;32msharyar@sharyar-VirtualBox[00m:[01;34m~/SharyarNasir_22114792_ISE_Repo[00m$ main[K[K[K[Kpython2[K3 main.py 
+[?2004lWelcome to ICSC – ISE Cloud Services Calculator
+
+Add/Modify subscription for:
+1) Compute (hour)
+2) Storage (Gb)
+3) Database (Gb)
+4) Integration (Gb)
+5) Networking (Gb)
+6) AI (hour)
+s) List subscriptions and totals
+$) Display cost breakdown
+q) Quit
+> 1
+You chose Compute (hour)
+Current hour amount: 0.0 Enter new hour amount: 100
+Add/Modify subscription for:
+1) Compute (hour)
+2) Storage (Gb)
+3) Database (Gb)
+4) Integration (Gb)
+5) Networking (Gb)
+6) AI (hour)
+s) List subscriptions and totals
+$) Display cost breakdown
+q) Quit
+> 2
+You chose Storage (Gb)
+Current Gb amount: 0.0 Enter new Gb amount: 200
+Add/Modify subscription for:
+1) Compute (hour)
+2) Storage (Gb)
+3) Database (Gb)
+4) Integration (Gb)
+5) Networking (Gb)
+6) AI (hour)
+s) List subscriptions and totals
+$) Display cost breakdown
+q) Quit
+> 3
+You chose Database (Gb)
+Current Gb amount: 0.0 Enter new Gb amount: 300
+Add/Modify subscription for:
+1) Compute (hour)
+2) Storage (Gb)
+3) Database (Gb)
+4) Integration (Gb)
+5) Networking (Gb)
+6) AI (hour)
+s) List subscriptions and totals
+$) Display cost breakdown
+q) Quit
+> 4
+You chose Integration (Gb)
+Current Gb amount: 0.0 Enter new Gb amount: 4000 
+Add/Modify subscription for:
+1) Compute (hour)
+2) Storage (Gb)
+3) Database (Gb)
+4) Integration (Gb)
+5) Networking (Gb)
+6) AI (hour)
+s) List subscriptions and totals
+$) Display cost breakdown
+q) Quit
+> s
+You have subscriptions for:
+Compute: 100.0
+Storage: 200.0
+Database: 300.0
+Integration: 400.0
+Add/Modify subscription for:
+1) Compute (hour)
+2) Storage (Gb)
+3) Database (Gb)
+4) Integration (Gb)
+5) Networking (Gb)
+6) AI (hour)
+s) List subscriptions and totals
+$) Display cost breakdown
+q) Quit
+> $
+
+Your current cost breakdown is:
+Compute: 100.0 hour @ $0.58 = $58.00
+Storage: 200.0 Gb @ $0.10 = $20.00
+Database: 300.0 Gb @ $0.15 = $45.00
+Integration: 400.0 Gb @ $0.01 = $4.00
+TOTAL: $127.00
+
+Add/Modify subscription for:
+1) Compute (hour)
+2) Storage (Gb)
+3) Database (Gb)
+4) Integration (Gb)
+5) Networking (Gb)
+6) AI (hour)
+s) List subscriptions and totals
+$) Display cost breakdown
+q) Quit
+> q
+Goodbye.
+[?2004h]0;sharyar@sharyar-VirtualBox: ~/SharyarNasir_22114792_ISE_Repo[01;32msharyar@sharyar-VirtualBox[00m:[01;34m~/SharyarNasir_22114792_ISE_Repo[00m$ python3 main.py exit[Kpython3 -m tests.test_blackbox[C[C[Cwhitebox[C[C[Cblackbox[C[C[Cwhitebox
+[?2004l....
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+OK
+[?2004h]0;sharyar@sharyar-VirtualBox: ~/SharyarNasir_22114792_ISE_Repo[01;32msharyar@sharyar-VirtualBox[00m:[01;34m~/SharyarNasir_22114792_ISE_Repo[00m$ python3 -m tests.test_whitebox[A]0;sharyar@sharyar-VirtualBox: ~/SharyarNasir_22114792_ISE_Repo[01;32msharyar@sharyar-VirtualBox[00m:[01;34m~/SharyarNasir_22114792_ISE_Repo[00m$ [C[C[C[C[C[C[C[C[3Pmain.py 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-m tests.test_whitebox[A]0;sharyar@sharyar-VirtualBox: ~/SharyarNasir_22114792_ISE_Repo[01;32msharyar@sharyar-VirtualBox[00m:[01;34m~/SharyarNasir_22114792_ISE_Repo[00m$ [C[C[C[C[C[C[C[C[3Pmain.py 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kpython3 -m tests.test_blackbox[C[C[Cwhitebox[C[C[Cblackbox
+[?2004l...
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK
+[?2004h]0;sharyar@sharyar-VirtualBox: ~/SharyarNasir_22114792_ISE_Repo[01;32msharyar@sharyar-VirtualBox[00m:[01;34m~/SharyarNasir_22114792_ISE_Repo[00m$ exit
+[?2004lexit
+
+Script done on 2025-11-26 00:11:33+04:00 [COMMAND_EXIT_CODE="0"]
